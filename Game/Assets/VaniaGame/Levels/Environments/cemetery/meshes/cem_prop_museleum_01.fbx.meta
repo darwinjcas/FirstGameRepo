@@ -1,15 +1,14 @@
 fileFormatVersion: 2
-guid: 9ca1feb11d8e10744ae90b33ddc84a9a
+guid: ef83d0c83705065448494a397745c856
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
     2100000: lambert1
-    2100002: lambert2
     2300000: //RootNode
     3300000: //RootNode
-    4300000: cem_floor_10x10_01
+    4300000: cem_prop_museleum_01
   externalObjects: {}
   materials:
     importMaterials: 1
