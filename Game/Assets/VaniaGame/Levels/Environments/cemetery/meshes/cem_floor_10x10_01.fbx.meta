@@ -7,6 +7,7 @@ ModelImporter:
     400000: //RootNode
     2100000: lambert1
     2100002: lambert2
+    2100004: cem_ground_01_mat
     2300000: //RootNode
     3300000: //RootNode
     4300000: cem_floor_10x10_01
@@ -49,7 +50,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
