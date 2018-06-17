@@ -1,15 +1,14 @@
 fileFormatVersion: 2
-guid: 511f111605ef23f419bf2ffd4de1dc97
+guid: 4e6bdf3c87801584e9df4da142d1e2d2
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: lambert1
-    2100002: cem_prop_rocks_01_mat
+    2100000: cem_prop_grass_01_mat
     2300000: //RootNode
     3300000: //RootNode
-    4300000: cem_prop_rocks_01
+    4300000: cem_grass_02
   externalObjects: {}
   materials:
     importMaterials: 1
