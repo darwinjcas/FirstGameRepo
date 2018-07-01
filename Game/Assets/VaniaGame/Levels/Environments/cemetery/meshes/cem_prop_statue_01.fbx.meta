@@ -6,10 +6,16 @@ ModelImporter:
     100000: //RootNode
     400000: //RootNode
     2100000: lambert1
+    2100002: cem_prop_arch_01_mat
     2300000: //RootNode
     3300000: //RootNode
     4300000: cem_prop_statue_01
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cem_prop_arch_01_mat
+    second: {fileID: 2100000, guid: 6c4e586ba70f6db40b7e96f72a9b8124, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -48,7 +54,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

@@ -6,10 +6,16 @@ ModelImporter:
     100000: //RootNode
     400000: //RootNode
     2100000: lambert1
+    2100002: cem_prop_grave_01_mat
     2300000: //RootNode
     3300000: //RootNode
     4300000: cem_prop_grave_02
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cem_prop_grave_01_mat
+    second: {fileID: 2100000, guid: 4f38bb857fd8ce049aa0847f7a0c222e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
